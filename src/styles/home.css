@@ -1,0 +1,148 @@
+/* 
+   
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
+img .bee {
+	position: absolute;
+	left: 3.15%;
+	right: 93.51%;
+	top: 2.13%;
+	bottom: 92.22%;
+	transform: rotate(29deg);
+}
+
+.navbar-brand {
+	font-family: "Montserrat", sans-serif;
+	font-weight: 700;
+}
+
+.navbar-nav {
+	font-family: "Montserrat", sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 29px;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.215em;
+	margin-left: 25px;
+}
+
+.bee {
+	transform: rotate(29deg);
+	margin-bottom: 25px;
+}
+
+.vector1 {
+	overflow: hidden;
+	position: absolute;
+	right: 0;
+	width: 400px;
+	top: 0%;
+	bottom: 41.76%;
+}
+
+.vector2 {
+	overflow: hidden;
+	position: absolute;
+	width: 500px;
+	top: 100;
+	bottom: 0;
+}
+
+.calendar {
+	position: absolute;
+	left: 55.23%;
+	right: 0%;
+	top: 9.44%;
+	bottom: 25.76%;
+}
+
+.tagline {
+	font-family: "Montserrat";
+	font-weight: 500;
+	font-size: 80px;
+	line-height: 100px;
+	display: flex;
+	align-items: center;
+	font-style: normal;
+
+	position: absolute;
+	left: 4.89%;
+	right: 22.97%;
+	top: 41.2%;
+	bottom: 49.91%;
+}
+
+.button {
+	position: absolute;
+	left: 10.15%;
+	right: 65%;
+	top: 59.91%;
+	bottom: 26.76%;
+
+	border: 1px solid #000000;
+	box-shadow: 0px 3px 11px 2px rgba(0, 0, 0, 0.25);
+	border-radius: 20px;
+	background-color: transparent;
+	font-family: "Montserrat";
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 2.8px;
+	transition: 0.6s cubic-bezier(0.01, 1.69, 0.99, 0.94);
+}
+
+.button:hover {
+	box-shadow: 3px 4.9px 16px;
+	letter-spacing: 5px;
+}
+
+.button--clicked {
+	transition: 0.6s cubic-bezier(0.01, 1.69, 0.99, 0.94);
+	padding: 15px 2px;
+	width: 50px;
+	color: transparent;
+	z-index: -10;
+}
+
+.color {
+	display: block;
+	width: 0;
+	height: 0;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	position: absolute;
+	transition: 0.8s ease;
+	border-radius: 50%;
+	background-color: transparent;
+}
+
+.expanded {
+	width: 200%;
+	padding-bottom: 200%;
+	height: auto;
+}
+
+.color--blue {
+	background-color: #1b8bf9;
+	transition-delay: 0.25s;
+}
+
+.color--orange {
+	background-color: #ff6c19;
+	transition-delay: 0.5s;
+}
+
+.color--green {
+	background-color: #41ff9f;
+	transition-delay: 0.75s;
+}
+
+.color--white {
+	background-color: #f9f9f9;
+	transition-delay: 1s;
+}
+body {
+	background-color: white;
+	font-family: "Montserrat";
+} */
